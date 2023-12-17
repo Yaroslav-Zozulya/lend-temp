@@ -1,0 +1,6 @@
+.st > .status {
+  background-color: #395b55;
+}
+.st > .active {
+  opacity: 1;
+}

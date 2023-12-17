@@ -1,0 +1,84 @@
+@media screen and (min-width: 1440px) {
+  .base + hr {
+    border-top: 1px solid #395b55;
+  }
+
+  .base[data-open='true'] {
+    position: relative;
+  }
+
+  .base[data-open='true'] .title {
+    padding-left: 0;
+  }
+
+  .base[data-open='true'] .subtitle {
+    display: block;
+
+    font-size: 14px;
+  }
+
+  .trigger:hover  .content {
+    background-color: red;
+  }
+
+
+  .base[data-open='true'] .titleWrapper {
+    display: flex;
+  }
+
+  .base[data-open='true'] .subtitle {
+    text-align: left;
+    width: 100%;
+    max-width: 307px;
+    flex-grow: 1;
+    flex-shrink: 0;
+  }
+
+  .base[data-open='true'] .trigger {
+    padding-top: 36px;
+  }
+
+  .heading {
+    display: flex;
+    gap: 100px;
+  }
+}
+
+.subtitle {
+  font-size: 0.875rem;
+  color: #02203f;
+  line-height: 1.5;
+
+  display: none;
+}
+
+.trigger {
+  justify-content: space-between;
+  max-width: 100%;
+}
+
+.titleWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 133px;
+}
+
+.titleText {
+  width: 100%;
+  max-width: 300px;
+  flex-shrink: 0;
+}
+
+.title {
+  width: 100%;
+}
+
+
+
+.base{
+  transition: background-color linear 250ms;
+}
+.base[data-open='true']:hover {
+  background-color: #F0EEE0;
+}
