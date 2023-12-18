@@ -53,7 +53,7 @@ export const Welcome: FC = () => {
         </div>
         <div className={'shrink-0'}>
           <Image
-            src={'/images/home/welcome/welcome-logo.png'}
+            src={'/icons/union.svg'}
             width={95}
             height={109}
             alt={'Welcome logo'}

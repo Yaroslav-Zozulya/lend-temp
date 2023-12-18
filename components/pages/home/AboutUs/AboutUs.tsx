@@ -12,7 +12,7 @@ export const AboutUs: FC = () => {
     >
       <div
         className={
-          'absolute left-0 top-0 z-[-1] h-16 w-[100%] bg-headerBg md:h-[100%] md:w-[171px] lg:w-[257px] xl:w-[491px]'
+          ' absolute md:left-8  top-0 z-[-1] h-16 w-[100%] bg-headerBg md:h-[100%] md:w-[171px] lg:w-[257px] xl:w-[491px] xl:left-20'
         }
       ></div>
       <div className={'container'}>
@@ -20,10 +20,10 @@ export const AboutUs: FC = () => {
           text={'About Us'}
           tag={'h2'}
           classes={
-            'text-2xl/[1.4] text-lightColor text-center mb-[47px] md:font-medium md:text-left md:mb-[60px] lg:text-[32px] lg:mb-[81px] xl:text-[64px] xl:mb-[36px]'
+            'md:pl-8 text-2xl/[1.4] text-lightColor text-center mb-[47px] md:font-medium md:text-left md:mb-[60px] lg:text-[32px] lg:mb-[81px] xl:text-[64px] xl:mb-[36px] xl:pl-[80px]'
           }
         />
-        <ul className={'md:pl-[54px] lg:pl-[143px] xl:pl-[217px]'}>
+        <ul className={'md:pl-[54px] lg:pl-[143px] xl:pl-[297px] '}>
           <li
             className={
               'mb-20 transition-colors duration-300 ease-linear hover:cursor-pointer hover:bg-hover md:mb-10 md:flex md:gap-4 lg:gap-6 xl:gap-12'
