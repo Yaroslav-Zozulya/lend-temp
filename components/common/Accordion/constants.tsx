@@ -22,10 +22,10 @@ export const structuresAccordionData: IAccordionProps[] = [
           }
         >
           {
-            'Drawing on experience from numerous Fund launches, we enable managers'
+            'Drawing on experience from numerous Fund launches, we enable managers '
           }
           {
-            'to devote more time to fundraising by ensuring that Fund admin aspects'
+            'to devote more time to fundraising by ensuring that Fund admin aspects '
           }
           {'do not take-up unnecessary time'}
         </p>
@@ -39,7 +39,9 @@ export const structuresAccordionData: IAccordionProps[] = [
           </li>
           <li>
             <p>
-              {'Supporting the Manager in Investor due diligence (questions on'}
+              {
+                'Supporting the Manager in Investor due diligence (questions on '
+              }
               {'reporting, deadlines, format etc.)'}
             </p>
           </li>
@@ -70,15 +72,15 @@ export const structuresAccordionData: IAccordionProps[] = [
             'mb-5 text-xs/[1.5] text-mainText xl:mt-[30px] xl:hidden xl:w-[307px] xl:text-sm/[1.5]'
           }
         >
-          {'Preparation and review of individually designed contribution and'}
+          {'Preparation and review of individually designed contribution and '}
           {
-            'distribution notices to be communicated to Investors. If required, we'
+            'distribution notices to be communicated to Investors. If required, we '
           }
           {
-            'will also prepare Notices in adherence to the ILPA standard while also'
+            'will also prepare Notices in adherence to the ILPA standard while also '
           }
           {
-            'ensuring compliance with Fund organisational documents, accounting and'
+            'ensuring compliance with Fund organisational documents, accounting and '
           }
           {'regulatory standards. Including but not limited to:'}
         </p>
@@ -98,7 +100,7 @@ export const structuresAccordionData: IAccordionProps[] = [
           </li>
           <li>
             <p>
-              {'Investment allocations across fund structure including'}
+              {'Investment allocations across fund structure including '}
               {'co-investment vehicles'}
             </p>
           </li>
@@ -130,7 +132,7 @@ export const structuresAccordionData: IAccordionProps[] = [
             'mb-5 text-xs/[1.5] text-mainText xl:mt-[30px] xl:hidden xl:w-[307px] xl:text-sm/[1.5]'
           }
         >
-          {'Ensuring that Equalisations are not just a process but a fair and'}
+          {'Ensuring that Equalisations are not just a process but a fair and '}
           {'LPA-compliant calculation.'}
         </p>
         <ul
@@ -152,7 +154,7 @@ export const structuresAccordionData: IAccordionProps[] = [
           </li>
           <li>
             <p>
-              {'Re-calculate investment allocations for funds with multiple'}
+              {'Re-calculate investment allocations for funds with multiple '}
               {'vehicles'}
             </p>
           </li>
@@ -176,9 +178,9 @@ export const structuresAccordionData: IAccordionProps[] = [
           }
         >
           {
-            'Fund reporting in accordance with Fund documentation and in adherence'
+            'Fund reporting in accordance with Fund documentation and in adherence '
           }
-          {'with ILPA or Invest Europe guidelines while respecting the Fund’s'}
+          {'with ILPA or Invest Europe guidelines while respecting the Fund’s '}
           {'visual identity.'}
         </p>
         <ul
@@ -215,9 +217,9 @@ export const structuresAccordionData: IAccordionProps[] = [
           }
         >
           {
-            'Fund reporting in accordance with Fund documentation and in adherence'
+            'Fund reporting in accordance with Fund documentation and in adherence '
           }
-          {'with ILPA or Invest Europe guidelines while respecting the Fund’s'}
+          {'with ILPA or Invest Europe guidelines while respecting the Fund’s '}
           {'visual identity.'}
         </p>
         <ul
@@ -255,12 +257,12 @@ export const structuresAccordionData: IAccordionProps[] = [
           }
         >
           {
-            'Drawing on experience from numerous Fund launches, we enable managers'
+            'Drawing on experience from numerous Fund launches, we enable managers '
           }
           {
-            'to devote more time to fundraising by ensuring that Fund admin aspects'
+            'to devote more time to fundraising by ensuring that Fund admin aspects '
           }
-          {'do not take-up unnecessary time.​'}
+          {'do not take-up unnecessary time.'}
         </p>
       </div>
     ),
@@ -278,7 +280,7 @@ export const structuresAccordionData: IAccordionProps[] = [
           }
         >
           {
-            'Supporting all regulatory reporting required by local regulator such'
+            'Supporting all regulatory reporting required by local regulator such '
           }
           {'as FATCA and CRS, AIF reporting etc.'}
         </p>
@@ -301,7 +303,7 @@ export const managerAccordionData: IAccordionProps[] = [
           }
         >
           {
-            'Payroll processing ensuring that remuneration, holiday and absences is'
+            'Payroll processing ensuring that remuneration, holiday and absences is '
           }
           {'handled accurately and timely.'}
         </p>
@@ -320,13 +322,13 @@ export const managerAccordionData: IAccordionProps[] = [
             'mb-5 text-xs/[1.5] text-mainText xl:mt-[30px] xl:hidden xl:w-[307px] xl:text-sm/[1.5]'
           }
         >
-          {'Assisting in establishing best practice for travel and expense'}
-          {'reporting along with the associated accounting. Frequently'}
+          {'Assisting in establishing best practice for travel and expense '}
+          {'reporting along with the associated accounting. Frequently '}
           {
-            'underestimated as a critical domain, travel and expense management can'
+            'underestimated as a critical domain, travel and expense management can '
           }
           {
-            'pose risks for investment managers. Leveraging our experience, we aid'
+            'pose risks for investment managers. Leveraging our experience, we aid '
           }
           {'in creating and maintaining a procedure that mitigates such risks.'}
         </p>
@@ -345,7 +347,9 @@ export const managerAccordionData: IAccordionProps[] = [
             'mb-5 text-xs/[1.5] text-mainText xl:mt-[30px] xl:hidden xl:w-[307px] xl:text-sm/[1.5]'
           }
         >
-          {'Supporting all reporting required by local regulator such as AIFMD'}
+          {
+            'Supporting all reporting required by local regulator such as AIFMD '
+          }
           {'reporting etc.'}
         </p>
       </div>
@@ -363,16 +367,16 @@ export const managerAccordionData: IAccordionProps[] = [
             'mb-5 text-xs/[1.5] text-mainText xl:mt-[30px] xl:hidden xl:w-[307px] xl:text-sm/[1.5]'
           }
         >
-          {'We offer a supporting role to CFOs or Managers without a CFO. We'}
+          {'We offer a supporting role to CFOs or Managers without a CFO. We '}
           {
-            'support to better plan for changes caused by Fund events, such as the'
+            'support to better plan for changes caused by Fund events, such as the '
           }
           {
-            'ratchet down of management fee income. We offer guidance on critical'
+            'ratchet down of management fee income. We offer guidance on critical '
           }
-          {'best practices, ensuring that the firm is established with the'}
+          {'best practices, ensuring that the firm is established with the '}
           {
-            'necessary foundations to fulfil its fiduciary responsibilities from'
+            'necessary foundations to fulfil its fiduciary responsibilities from '
           }
           {'day one.'}
         </p>
@@ -392,14 +396,14 @@ export const managerAccordionData: IAccordionProps[] = [
           }
         >
           {
-            'Most Fund structures will include Special Purpose Vehicles (SPVs) such'
+            'Most Fund structures will include Special Purpose Vehicles (SPVs) such '
           }
           {
-            'as Feeder Funds, General Partners, Carried Interest Vehicles and in'
+            'as Feeder Funds, General Partners, Carried Interest Vehicles and in '
           }
-          {'some instances Co-Investment Funds or Portfolio Investment holding'}
+          {'some instances Co-Investment Funds or Portfolio Investment holding '}
           {
-            'companies. Each entity type necessitates distinct reporting or filing'
+            'companies. Each entity type necessitates distinct reporting or filing '
           }
           {'requirements, services which we are pleased to extend.'}
         </p>
@@ -421,7 +425,7 @@ export const generalServicesAccordionData: IAccordionProps[] = [
             'mb-5 text-xs/[1.5] text-mainText xl:mt-[30px] xl:hidden xl:w-[307px] xl:text-sm/[1.5]'
           }
         >
-          {'Financial records maintenance and assistance with everything from'}
+          {'Financial records maintenance and assistance with everything from '}
           {'accounting to preparing financial statements'}
         </p>
         <ul
@@ -441,7 +445,7 @@ export const generalServicesAccordionData: IAccordionProps[] = [
           <li>
             <p>
               {
-                'Supporting the auditors by providing a reconciled general ledger'
+                'Supporting the auditors by providing a reconciled general ledger '
               }
               {'and documentation'}
             </p>
@@ -449,7 +453,7 @@ export const generalServicesAccordionData: IAccordionProps[] = [
           <li>
             <p>
               {
-                'Archiving and storage of bookkeeping materials, including ledgers,'
+                'Archiving and storage of bookkeeping materials, including ledgers, '
               }
               {'in accordance with applicable Law'}
             </p>
@@ -470,8 +474,8 @@ export const generalServicesAccordionData: IAccordionProps[] = [
             'mb-5 text-xs/[1.5] text-mainText xl:mt-[30px] xl:hidden xl:w-[307px] xl:text-sm/[1.5]'
           }
         >
-          {'Support cash management by reviewing and processing invoices in'}
-          {'accordance with the Standard Operating Procedures, preparing bank'}
+          {'Support cash management by reviewing and processing invoices in '}
+          {'accordance with the Standard Operating Procedures, preparing bank '}
           {'transactions for payment of invoices and other distributions.'}
         </p>
       </div>
@@ -490,13 +494,13 @@ export const generalServicesAccordionData: IAccordionProps[] = [
           }
         >
           {
-            'Ensuring accuracy and validity of any expenses charged to the Fund is'
+            'Ensuring accuracy and validity of any expenses charged to the Fund is '
           }
-          {'a critical fiduciary responsibility for Fund managers. Sound Fund'}
+          {'a critical fiduciary responsibility for Fund managers. Sound Fund '}
           {
-            'Services will control that cost allocation is done in accordance with'
+            'Services will control that cost allocation is done in accordance with '
           }
-          {'fund documentation and accurate records associated with these'}
+          {'fund documentation and accurate records associated with these '}
           {'affiliated transactions are kept.'}
         </p>
       </div>
@@ -514,7 +518,7 @@ export const generalServicesAccordionData: IAccordionProps[] = [
             'mb-5 text-xs/[1.5] text-mainText xl:mt-[30px] xl:hidden xl:w-[307px] xl:text-sm/[1.5]'
           }
         >
-          {'Compliance with Anti Money Laundering regulation is a critical'}
+          {'Compliance with Anti Money Laundering regulation is a critical '}
           {'Fiduciary responsibility, which we are pleased to support through:'}
         </p>
         <ul
@@ -528,7 +532,7 @@ export const generalServicesAccordionData: IAccordionProps[] = [
           <li>
             <p>
               {
-                'Review of AML policies and business procedures for the prevention'
+                'Review of AML policies and business procedures for the prevention '
               }
               {'of Money Laundering'}
             </p>
@@ -557,7 +561,7 @@ export const generalServicesAccordionData: IAccordionProps[] = [
             'mb-5 text-xs/[1.5] text-mainText xl:mt-[30px] xl:hidden xl:w-[307px] xl:text-sm/[1.5]'
           }
         >
-          {'Providing a director with expertise in your industry to oversee'}
+          {'Providing a director with expertise in your industry to oversee '}
           {'compliance with local laws and regulations.'}
         </p>
       </div>
@@ -576,15 +580,15 @@ export const generalServicesAccordionData: IAccordionProps[] = [
           }
         >
           {
-            'Sound Fund Services is well-equipped to facilitate the management of'
+            'Sound Fund Services is well-equipped to facilitate the management of '
           }
           {
-            'your corporate entities post-incorporation ensuring adherence to local'
+            'your corporate entities post-incorporation ensuring adherence to local '
           }
-          {'laws and regulations. Including but not limited to providing'}
-          {'registered address, fillings to Business Authorities, maintaining'}
+          {'laws and regulations. Including but not limited to providing '}
+          {'registered address, fillings to Business Authorities, maintaining '}
           {
-            'up-to-date records, coordinate board/shareholder meetings, and ensure'
+            'up-to-date records, coordinate board/shareholder meetings, and ensure '
           }
           {'the proper documentation of minutes.'}
         </p>
