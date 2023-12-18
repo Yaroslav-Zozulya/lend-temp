@@ -134,7 +134,7 @@ export const Services: FC = () => {
                 'text-headerBg text-xl/[1] mb-4 md:mb-10  lg:text-2xl/[1]'
               }
             />
-            <span 
+            <span
               className={'mb-4 block h-1 bg-sidebarBg md:opacity-0 md:hidden'}
             ></span>
             <Image
@@ -149,7 +149,7 @@ export const Services: FC = () => {
             <div
               className={
                 'ml-auto max-w-[268px] md:ml-[60px] md:max-w-[440px] lg:max-w-[633px] xl:max-w-[746px]'
-                }
+              }
             >
               <Text
                 text={
