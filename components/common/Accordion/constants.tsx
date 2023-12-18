@@ -498,7 +498,7 @@ export const generalServicesAccordionData: IAccordionProps[] = [
     id: 3,
     title: 'Cost allocation - Intercompany billing between entities',
     subtitle:
-      'Ensuring accuracy and validity of any expenses charged to the Fund is          a critical fiduciary responsibility for Fund managers. Sound Fund          Services will control that cost allocation is done in accordance with          fund documentation and accurate records associated with these          affiliated transactions are kept',
+      'Ensuring accuracy and validity of any expenses charged to the Fund is a critical fiduciary responsibility for Fund managers. Sound Fund Services will control that cost allocation is done in accordance with fund documentation and accurate records associated with these affiliated transactions are kept',
     content: (
       <div>
         <p
@@ -588,7 +588,7 @@ export const generalServicesAccordionData: IAccordionProps[] = [
     id: 6,
     title: 'Company Secretarial',
     subtitle:
-      ' Sound Fund Services is well-equipped to facilitate the management of your corporate entities post-incorporation ensuring adherence to local laws and regulations. Including but not limited to providing registered address, fillings to Business Authorities, maintaining up-to-date records, coordinate board/shareholder meetings, and ensure the proper documentation of minutes.',
+      'Sound Fund Services is well-equipped to facilitate the management of your corporate entities post-incorporation ensuring adherence to local laws and regulations. Including but not limited to providing registered address, fillings to Business Authorities, maintaining up-to-date records, coordinate board/shareholder meetings, and ensure the proper documentation of minutes.',
     content: (
       <div>
         <p
