@@ -63,7 +63,8 @@ export const structuresAccordionData: IAccordionProps[] = [
   {
     id: 2,
     title: 'Capital Contribution and Distribution Processing',
-    subtitle: 'Preparation and review of individually designed contribution and distribution notices to be communicated to Investors. If required, we will also prepare Notices in adherence to the ILPA standard while also ensuring compliance with Fund organisational documents, accounting and regulatory standards. Including but not limited to:',
+    subtitle:
+    'Preparation and review of individually designed contribution and distribution notices to be communicated to Investors. If required, we will also prepare Notices in adherence to the ILPA standard while also ensuring compliance with Fund organisational documents, accounting and regulatory standards. Including but not limited to:',
     content: (
       <div>
         <p
