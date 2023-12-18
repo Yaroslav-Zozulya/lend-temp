@@ -121,7 +121,11 @@ export const Services: FC = () => {
               </Link>
             </div>
           </li>
-          <li className={'group relative  md:py-[26px] md:pl-[19px]'}>
+          <li 
+            className={
+              'group relative  md:py-[26px] md:pl-[19px]'
+             }
+          >
             <div
               className={
                 'w-100% absolute left-0 top-0 z-[-1] h-[100%] transition-colors duration-300 ease-linear group-hover:bg-hover md:w-[541px] lg:w-[735px] xl:w-[869px]'
@@ -134,7 +138,11 @@ export const Services: FC = () => {
                 'text-headerBg text-xl/[1] mb-4 md:mb-10  lg:text-2xl/[1]'
               }
             />
-            <span className={'mb-4 block h-1 bg-sidebarBg md:opacity-0 md:hidden'}></span>
+            <span 
+              className={
+                'mb-4 block h-1 bg-sidebarBg md:opacity-0 md:hidden'
+              }
+            ></span>
             <Image
               src={'/icons/line_services.svg'}
               width={668}
@@ -146,8 +154,8 @@ export const Services: FC = () => {
             />
             <div
               className={
-                'ml-auto max-w-[268px] md:ml-[60px] md:max-w-[440px] lg:max-w-[633px] xl:max-w-[746px]  '
-              }
+                'ml-auto max-w-[268px] md:ml-[60px] md:max-w-[440px] lg:max-w-[633px] xl:max-w-[746px]'
+               }
             >
               <Text
                 text={
