@@ -122,15 +122,9 @@ export const Services: FC = () => {
             </div>
           </li>
           <li 
-            className={
-              'group relative  md:py-[26px] md:pl-[19px]'
-             }
-          >
+            className={'group relative  md:py-[26px] md:pl-[19px]'}>
             <div
-              className={
-                'w-100% absolute left-0 top-0 z-[-1] h-[100%] transition-colors duration-300 ease-linear group-hover:bg-hover md:w-[541px] lg:w-[735px] xl:w-[869px]'
-              }
-            ></div>
+              className={'w-100% absolute left-0 top-0 z-[-1] h-[100%] transition-colors duration-300 ease-linear group-hover:bg-hover md:w-[541px] lg:w-[735px] xl:w-[869px]'}></div>
             <Title
               text={'General Services across all entity types'}
               tag={'h3'}
@@ -139,10 +133,7 @@ export const Services: FC = () => {
               }
             />
             <span 
-              className={
-                'mb-4 block h-1 bg-sidebarBg md:opacity-0 md:hidden'
-              }
-            ></span>
+              className={'mb-4 block h-1 bg-sidebarBg md:opacity-0 md:hidden'}></span>
             <Image
               src={'/icons/line_services.svg'}
               width={668}
@@ -153,10 +144,7 @@ export const Services: FC = () => {
               alt={'decore line'}
             />
             <div
-              className={
-                'ml-auto max-w-[268px] md:ml-[60px] md:max-w-[440px] lg:max-w-[633px] xl:max-w-[746px]'
-               }
-            >
+              className={'ml-auto max-w-[268px] md:ml-[60px] md:max-w-[440px] lg:max-w-[633px] xl:max-w-[746px]'}>
               <Text
                 text={
                   'We offer comprehensive general support across all entity types, including accounting and reconciliation, cash management, cost allocation, AML and KYC services, board of director services for regulatory compliance, and company secretarial services ensuring adherence to local laws and regulations.'
