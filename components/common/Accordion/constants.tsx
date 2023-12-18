@@ -401,7 +401,9 @@ export const managerAccordionData: IAccordionProps[] = [
           {
             'as Feeder Funds, General Partners, Carried Interest Vehicles and in '
           }
-          {'some instances Co-Investment Funds or Portfolio Investment holding '}
+          {
+            'some instances Co-Investment Funds or Portfolio Investment holding '
+          }
           {
             'companies. Each entity type necessitates distinct reporting or filing '
           }
