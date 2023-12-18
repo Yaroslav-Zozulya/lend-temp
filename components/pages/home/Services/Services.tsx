@@ -121,11 +121,7 @@ export const Services: FC = () => {
               </Link>
             </div>
           </li>
-          <li 
-            className={
-              'group relative  md:py-[26px] md:pl-[19px]'
-             }
-          >
+          <li className={'group relative  md:py-[26px] md:pl-[19px]'}>
             <div
               className={
                 'w-100% absolute left-0 top-0 z-[-1] h-[100%] transition-colors duration-300 ease-linear group-hover:bg-hover md:w-[541px] lg:w-[735px] xl:w-[869px]'
