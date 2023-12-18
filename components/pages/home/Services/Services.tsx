@@ -135,9 +135,7 @@ export const Services: FC = () => {
               }
             />
             <span 
-              className={
-                'mb-4 block h-1 bg-sidebarBg md:opacity-0 md:hidden'
-              }
+              className={'mb-4 block h-1 bg-sidebarBg md:opacity-0 md:hidden'}
             ></span>
             <Image
               src={'/icons/line_services.svg'}
